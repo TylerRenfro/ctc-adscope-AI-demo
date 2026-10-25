@@ -71,33 +71,7 @@ src/
 - `npm run build` - Build for production
 - `npm run start` - Start production server
 - `npm run lint` - Run ESLint
-
-### Future Development Plans
-
-1. **Phase 1**: User authentication with Google OAuth
-2. **Phase 2**: Google Ads API integration
-3. **Phase 3**: Weather API integration
-4. **Phase 4**: Device and network detection
-5. **Phase 5**: Automation rules engine
-6. **Phase 6**: Analytics dashboard
-
-## 🎨 Design
-
-The landing page features:
-- Modern, responsive design
-- Professional color scheme (blue/purple gradient)
-- Intuitive user interface
-- Mobile-first approach
-- Accessibility-compliant components
-
-## 📝 License
-
-This project is private and proprietary.
-
-## 🤝 Contributing
-
-This is a private project. Contact the development team for contribution guidelines.
-
+  
 ---
 
 Built with ❤️ using Next.js and Tailwind CSS
